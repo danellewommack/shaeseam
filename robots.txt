@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oochingaz.fieldenable.com/sitemap.xml
